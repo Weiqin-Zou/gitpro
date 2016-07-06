@@ -2,3 +2,5 @@ My Project
 o
 yes
 what?
+you can use git -a -m 'xxx' to automatically stage all tracked files
+and then commit them. let's have a try.
