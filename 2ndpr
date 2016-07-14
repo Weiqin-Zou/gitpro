@@ -1,0 +1,3 @@
+the second pr created
+if we use squash and merge, we can not maintain our original commits. but only generate a new commit instead, 
+not even mention the explicit merge commit msg.
